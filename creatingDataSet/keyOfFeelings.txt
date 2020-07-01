@@ -1,0 +1,11 @@
+Love - 1
+Heartbreak - 2
+Rage - 3
+Comeup - 4
+Party - 5
+Dance - 6
+Sadness - 7
+Feelings - 8
+Sexy - 9
+Danger - 10
+Feelgood - 11
